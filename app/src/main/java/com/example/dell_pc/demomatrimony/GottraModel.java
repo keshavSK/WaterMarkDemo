@@ -4,6 +4,7 @@ public class GottraModel
 {
     private int GottraId;
     private String GottraName;
+    private String data;
 
     public int getGottraId() {
         return GottraId;
